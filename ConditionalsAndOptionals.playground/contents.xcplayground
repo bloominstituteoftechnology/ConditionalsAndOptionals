@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' display-mode='raw'>
+    <pages>
+        <page name='Logical Operators'/>
+        <page name='If Statements'/>
+        <page name='App Fitness Decisions'/>
+        <page name='Boolean Practice'/>
+        <page name='Target Heart Rate'/>
+        <page name='Heart Rate Zones'/>
+        <page name='Ternary Operator'/>
+        <page name='Optionals'/>
+        <page name='Finding a Heart Rate'/>
+    </pages>
+</playground>
