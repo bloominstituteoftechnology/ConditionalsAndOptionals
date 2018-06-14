@@ -7,6 +7,7 @@
  
  Write a switch statement that will print different statements based on what range `currentHR` falls into. Below is a list of ranges and the associated statements
  
+ - 0-99: "You are not excercising yet."
  - 100-120: "You are in the Very Light zone. Activity in this zone helps with recovery."
  - 121-140: "You are in the Light zone. Activity in this zone helps improve basice endurance and fat burning."
  - 141-160: "You are in the Moderate zone. Activity in this zone helps improve aerobic fitness."
@@ -17,5 +18,21 @@
  */
 let currentHR = 128
 
+switch currentHR {
+case 0...99:
+    print("You are not excercising yet.")
+case 100...120:
+    print("You are in the Very Light zone. Activity in this zone helps with recovery.")
+case 121...140:
+    print("You are in the Light zone. Activity in this zone helps improve basice endurance and fat burning.")
+case 141...160:
+    print("You are in the Moderate zone. Activity in this zone helps improve aerobic fitness.")
+case 161...180:
+    print("You are in the Hard zone. Activity in this zone increases maximum performance capacity for shorter sessions.")
+case 181...200:
+    print("You are in the Maximum zone. Activity in this zone helps fit athletes develop speed.")    
+default:
+    print("Slow down!")
+}
 
 //: [Previous](@previous)  |  page 6 of 9  |  [Next: Ternary Operator](@next)
