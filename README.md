@@ -4,7 +4,7 @@ This project will help you practice the skills and concepts you learned related 
 
 Unlike the previous two projects, this project is all done in playgrounds. Follow the instructions below:
 
-### Download the PLayground
+### Download the Playground
 
 1. Download the playground for this project by clicking [here](https://github.com/LambdaSchool/ConditionalsAndOptionals/archive/master.zip). 
 2. Unzip the downloaded file.
