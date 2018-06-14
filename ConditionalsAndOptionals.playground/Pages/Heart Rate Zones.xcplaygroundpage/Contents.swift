@@ -7,6 +7,7 @@
  
  Write a switch statement that will print different statements based on what range `currentHR` falls into. Below is a list of ranges and the associated statements
  
+ - 0-99: "You are not excercising yet."
  - 100-120: "You are in the Very Light zone. Activity in this zone helps with recovery."
  - 121-140: "You are in the Light zone. Activity in this zone helps improve basice endurance and fat burning."
  - 141-160: "You are in the Moderate zone. Activity in this zone helps improve aerobic fitness."
