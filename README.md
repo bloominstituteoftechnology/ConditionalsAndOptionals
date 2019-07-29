@@ -37,4 +37,4 @@ let hour = calendar.dateComponents([.hour], from: currentDate).hour
 
 ### Submit
 
-Zip up the ConditionalsAndOptionals.playground file after you've finished all the excercises. Submit the zipped playground file to your project manager (PM).
+Zip up the ConditionalsAndOptionals.playground file after you've finished all the excercises. Submit the zipped playground file to your Team Lead (TL).
