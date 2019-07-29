@@ -9,7 +9,7 @@
  
  - 0-99: "You are not excercising yet."
  - 100-120: "You are in the Very Light zone. Activity in this zone helps with recovery."
- - 121-140: "You are in the Light zone. Activity in this zone helps improve basice endurance and fat burning."
+ - 121-140: "You are in the Light zone. Activity in this zone helps improve basic endurance and fat burning."
  - 141-160: "You are in the Moderate zone. Activity in this zone helps improve aerobic fitness."
  - 161-180: "You are in the Hard zone. Activity in this zone increases maximum performance capacity for shorter sessions."
  - 181-200: "You are in the Maximum zone. Activity in this zone helps fit athletes develop speed."

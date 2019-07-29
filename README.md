@@ -20,7 +20,7 @@ This project consists of multiple pages. You can see all the pages by choosing V
 
 ### Bonus
 
-If you finish and want another challenge try the following:
+If you finish and want another challenge try the following (assuming you are on a Mac):
 
 1. Open your Flashlight project from day 1.
 2. Modify the project so that when the "Turn Flashlight On" button is clicked, the screen turns bright if the current time is between the hours of 8 AM and 10 PM. If the the current time is between the hours of 10 PM and 8 AM (night time), make the screen gray instead.
