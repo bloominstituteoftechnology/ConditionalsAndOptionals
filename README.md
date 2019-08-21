@@ -4,21 +4,33 @@ This project will help you practice the skills and concepts you learned related 
 
 Unlike the previous two projects, this project is all done in playgrounds. Follow the instructions below:
 
-### Download the Playground
+### Non-Mac Users:
+
+This assignment is broken up into smaller repl.it pages. Please go to and complete all of the assignments at the links below:
+
+1. https://repl.it/student/submissions/7577190
+1. https://repl.it/student/submissions/7577195
+1. https://repl.it/student/submissions/7577199
+1. https://repl.it/student/submissions/7577201
+1. https://repl.it/student/submissions/7577203
+1. https://repl.it/student/submissions/7577204
+1. https://repl.it/student/submissions/7577207
+1. https://repl.it/student/submissions/7577208
+1. https://repl.it/student/submissions/7577183
+
+### Mac Users:
 
 1. Download the playground for this project by clicking [here](https://github.com/LambdaSchool/ConditionalsAndOptionals/archive/master.zip). 
 2. Unzip the downloaded file.
 3. Open the included ConditionalsAndOptionals.playground file using Xcode
 
-### Do the Excercises
-
-This project consists of multiple pages. You can see all the pages by choosing View->Navigators->Show Navigators in the View menu in Xcode.
+This playground consists of multiple pages. You can see all the pages by choosing View -> Navigators -> Show Navigators in the View menu in Xcode. The playground has
 
 1. Complete all the excercises on the first page.
 2. Go to the next page by clicking the "Next" link at the bottom of the playground, or by selecting it in the files navigator on the left side.
 3. Repeat until you've completed all pages in the playground.
 
-### Bonus
+#### Bonus
 
 If you finish and want another challenge try the following (assuming you are on a Mac):
 
